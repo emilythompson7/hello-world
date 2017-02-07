@@ -9,6 +9,6 @@ public class HelloWorld
     {
         System.out.println("Hello World.");
         System.out.println("Babbys first github push... -_-");
-        System.out.println("Third commit just to make sure.")
+        System.out.println("Third commit just to make sure.");
     }
 }
